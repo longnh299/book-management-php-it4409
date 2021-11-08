@@ -7,8 +7,8 @@ $database="db_14";
 
 
 $conn=mysqli_connect($localhost,$username,$password,$database);
- if($conn){
+ /*if($conn){
      echo "Connection db_14 successfully";
- }
+ } */
 
 ?>
